@@ -1,7 +1,7 @@
 {
-  "name": "GoSeeTV",
-  "short_name": "GoSeeTV",
-  "start_url": "https://hbbtv.goseetv.media/trailblazer/",
+  "name": "GoSeeTV Odyssey",
+  "short_name": "GoSeeTV Odyssey",
+  "start_url": "https://hbbtv.goseetv.media/odyssey/",
   "display": "fullscreen",
   "background_color": "#000000",
   "theme_color": "#000000",
